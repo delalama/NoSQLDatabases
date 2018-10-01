@@ -24,6 +24,10 @@ Community Edition
 
 Community edition :(https://hevodata.com/blog/install-mongodb-on-ubuntu/)
 
-To begin with MongoDB we've this helpful web.
+To begin with MongoDB basic commands we've this helpful web.
 
 https://dzone.com/articles/top-10-most-common-commands-for-beginners
+
+To make an easy SpringBoot application you can follow this simple Baeldung project
+
+[baeldung]:https://spring.io/guides/gs/accessing-data-mongodb/
