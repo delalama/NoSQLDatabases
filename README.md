@@ -20,4 +20,4 @@ for Ubuntu 16.04...
 Community Edition
 ---
 
-![Community edition]:(https://hevodata.com/blog/install-mongodb-on-ubuntu/)
+Community edition :(https://hevodata.com/blog/install-mongodb-on-ubuntu/)
