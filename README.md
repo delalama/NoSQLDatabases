@@ -1,11 +1,13 @@
 # NoSQLDatabases
-Testing NOSQL with SpringBoot
+Testing NOSQL with SpringBoot, i've choosen MongoDB.
 
 Install MongoDB on Ubuntu
 ---
-
+You can choose between enterprise or community , i installed the community edition.
 Enterprise Edition
 ---
+
+enter in terminal
 
 * sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
 
@@ -21,3 +23,6 @@ Community Edition
 ---
 
 Community edition :(https://hevodata.com/blog/install-mongodb-on-ubuntu/)
+
+To begin with MongoDB we've this helpful web
+https://dzone.com/articles/top-10-most-common-commands-for-beginners
