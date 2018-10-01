@@ -30,4 +30,4 @@ https://dzone.com/articles/top-10-most-common-commands-for-beginners
 
 To make an easy SpringBoot application you can follow this simple Baeldung project
 
-[baeldung]:https://spring.io/guides/gs/accessing-data-mongodb/
+https://spring.io/guides/gs/accessing-data-mongodb/
